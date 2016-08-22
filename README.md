@@ -1,5 +1,5 @@
 # hello-warsan
-Say hello to a powerful poet, **Warsan Shire**.
+Say hello to a powerful poet, **[Warsan Shire](https://en.wikipedia.org/wiki/Warsan_Shire)**.
 
 This piece, from one of her most popular poems, gets shared a *lot* on the social medias:
 
@@ -32,5 +32,5 @@ This piece, from one of her most popular poems, gets shared a *lot* on the socia
 
 
 
-*~from* **_What They Did Yesterday Afternoon_**
+*~from* **[_What They Did Yesterday Afternoon_](http://crowspirit.org.uk/what-they-did-yesterday-afternoon-by-warsan-shire/)**
 
