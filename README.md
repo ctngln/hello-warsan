@@ -7,27 +7,26 @@ This piece, from one of her most popular poems, gets shared a *lot* on the socia
 
 
 
-later that night
+> later that night
 
-i held an atlas in my lap
+> i held an atlas in my lap
 
-ran my fingers across the whole world
+> ran my fingers across the whole world
 
-and whispered
+> and whispered
 
-where does it hurt?
-
-
+> where does it hurt?
 
 
 
-it answered
 
-_everywhere_
+> it answered
 
-_everywhere_
+> _everywhere_
 
-_everywhere_.
+> _everywhere_
+
+> _everywhere_.
 
 
 
